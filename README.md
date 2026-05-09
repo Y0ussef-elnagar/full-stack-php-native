@@ -1,42 +1,47 @@
-# Full Stack PHP Native
+# 🚀 Full Stack PHP Native
 
-A full-stack web application built using native PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
-
-## Live Demo
-
-You can view the project live here:
-
-* 🌐 Live Website: https://final-nti.free.nf
-* 💻 GitHub Repository: https://github.com/Y0ussef-elnagar/full-stack-php-native
-
-## Project Status
-
-✔️ Completed
-✔️ Deployed
-✔️ Fully Functional
+A full-stack web application built using **native PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
 
 ---
 
+## 🌐 Live Demo
 
-## Features
+* 🔗 Live Website: https://final-nti.free.nf
+* 💻 GitHub Repository: https://github.com/Y0ussef-elnagar/full-stack-php-native
 
-* User Registration
-* User Login & Logout
-* Authentication System
-* Responsive UI
-* Database Integration
-* Clean Project Structure
+---
 
-## Technologies Used
+## 📌 Project Status
 
-* PHP Native
+* ✔️ Completed
+* ✔️ Deployed
+* ✔️ Fully Functional
+
+---
+
+## ✨ Features
+
+* 👤 User Registration System
+* 🔐 User Login & Logout
+* 🛡️ Authentication System
+* 📱 Fully Responsive UI
+* 🗄️ MySQL Database Integration
+* 🧱 Clean and Organized Structure
+
+---
+
+## 🛠️ Technologies Used
+
+* PHP (Native)
 * MySQL
 * HTML5
 * CSS3
 * JavaScript
 * Bootstrap
 
-## Project Structure
+---
+
+## 📁 Project Structure
 
 ```bash
 includes/
@@ -61,7 +66,9 @@ logout.php
 init_user.php
 ```
 
-## Installation
+---
+
+## ⚙️ Installation & Setup
 
 1. Clone the repository:
 
@@ -69,16 +76,16 @@ init_user.php
 git clone https://github.com/Y0ussef-elnagar/full-stack-php-native.git
 ```
 
-2. Move the project into your server directory:
+2. Move project to server directory:
 
 * XAMPP → `htdocs`
 * Laragon → `www`
 
-3. Import the database:
+3. Import database:
 
 * Open phpMyAdmin
-* Create a database
-* Import the `.sql` file
+* Create database
+* Import `.sql` file
 
 4. Configure database connection:
 
@@ -86,25 +93,30 @@ git clone https://github.com/Y0ussef-elnagar/full-stack-php-native.git
 $conn = new mysqli("localhost", "root", "", "database_name");
 ```
 
-5. Run the project:
+5. Run project:
 
-```bash
+```
 http://localhost/full-stack-php-native
 ```
 
-## Screenshots
+---
 
-*Add your project screenshots here.*
+## 📸 Screenshots
 
-## Author
+*Add project screenshots here to improve portfolio quality.*
 
-### يوسف النجار
+---
 
+## 👨‍💻 Author
+
+**Youssef Elnagar**
 Frontend Developer & Computer Science Student
 
 * GitHub: https://github.com/Y0ussef-elnagar
 * LinkedIn: Add your LinkedIn profile here
 
-## Repository
+---
+
+## ⭐ Repository
 
 https://github.com/Y0ussef-elnagar/full-stack-php-native
